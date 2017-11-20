@@ -1,5 +1,5 @@
 # Hack Austin
-Data enthusiasts, developers, and engineers will unite to tackle strategic initiatives for the City of Austin.
+Data enthusiasts, designers, civic leadears, developers, and engineers will unite to tackle strategic initiatives for the City of Austin.
 
 ## Topics 
 ### Health
