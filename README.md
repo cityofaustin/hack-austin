@@ -10,7 +10,7 @@ Data enthusiasts, designers, civic leadears, developers, and engineers will unit
 - How to improve emergency response times within the City.
 - Analyze what factors may contribute to officer involved shootings.
 
-## Datsets Available on the Open Data Portal
+## Datsets Available on The Austin Open Data Portal(data.austintexas.gov): 
 - Austin Public Health - https://data.austintexas.gov/browse?category=Health+and+Community+Services&limitTo=datasets&page=1
 - Officer Involved Shooting Data- https://data.austintexas.gov/browse?q=OIS&sortBy=relevance
 - 311 Unified Data - https://data.austintexas.gov/Utilities-and-City-Services/311-Unified-Data/i26j-ai4z/data
