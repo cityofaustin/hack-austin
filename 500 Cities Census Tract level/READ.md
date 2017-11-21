@@ -1,8 +1,8 @@
 ### 500 Cities Census Tract level
 
-The directory contains the data behind the story [insert link](http://.com). The data file `500 Cities- Census Tract-level Data500 Cities Census Tract level Data_GIS Friendly Format.csv` contains the following variables:
+The directory contains the data behind [insert link](http://.com). The data file `500 Cities- Census Tract-level Data500 Cities Census Tract level Data_GIS Friendly Format.csv` contains the following variables:
 
-Column Name | Description 
+Column Name | Description
 ---|---------
 `StateAbbr` |
 `PlaceName` |
@@ -58,4 +58,4 @@ Column Name | Description
 `TEETHLOST_Crude95CI` |
 `Geolocation` |
 
-Source: [Centers for Disease Control and Prevention](http://.com/).
+Source: [Centers for Disease Control and Prevention](http://.com/). (add link)
