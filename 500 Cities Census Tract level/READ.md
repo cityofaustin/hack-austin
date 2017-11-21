@@ -2,7 +2,7 @@
 
 The directory contains the data behind the story [insert link](http://.com). The data file `500 Cities- Census Tract-level Data500 Cities Census Tract level Data_GIS Friendly Format.csv` contains the following variables:
 
-Column Name | Description
+Column Name | Description 
 ---|---------
 `StateAbbr` |
 `PlaceName` |
