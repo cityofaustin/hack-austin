@@ -341,5 +341,5 @@ Column Name | Description
 `HC03_VC110` | "Percent, CITIZEN, VOTING AGE POPULATION – Citizen, 18 and over population - Female"
 `HC04_VC110` | "Percent Margin of Error, CITIZEN, VOTING AGE POPULATION – Citizen, 18 and over population - Female"
 
-Source:
+Source:[United States Census Bureau](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml).
 
