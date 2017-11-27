@@ -2,4 +2,4 @@
 
 Pharmacies in the United States and Territories A pharmacy is a facility whose primary function is to store, prepare and legally dispense prescription drugs under the professional supervision of a licensed pharmacist. It meets any licensing or certification standards set forth by the jurisdiction where it is located. This geospatial dataset includes pharmacies in the United States, as well as the territories of American Samoa, Guam, Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands. The tabular data was gathered from the National Plan and Provider Enumeration System (NPPES) dataset. Pharmacies that were verified to service only animal populations were excluded from the dataset. The currentness of this dataset is indicated by the [CONTDATE] field. Based on this field the oldest record dates from 03/30/2010 and the newest record dates from 10/25/2010.
 
-Source: [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/pharmacies)
+Source: [Homeland Infrastructure Foundation-Level Data (Pharmacies)](https://hifld-geoplatform.opendata.arcgis.com/datasets/pharmacies)
