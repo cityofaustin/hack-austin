@@ -1,6 +1,6 @@
 ### 500 Cities Census Tract level
 
-The directory contains the data behind https://chronicdata.cdc.gov/500-Cities/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k86t-wghb. The data file `500 Cities- Census Tract-level Data500 Cities Census Tract level Data_GIS Friendly Format.csv` contains the following variables:  
+The directory contains data from the Centers for Disease Control and Prevention (CDC), Division of Population Health, Epidemiology and Surveillance Branch.  The data can be found on the CDC Open Data portal: https://chronicdata.cdc.gov/500-Cities/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k86t-wghb. The data file `500 Cities- Census Tract-level Data500 Cities Census Tract level Data_GIS Friendly Format.csv` contains the following variables:  
 
 Column Name | Description
 ---|---------
@@ -69,4 +69,4 @@ Column Name | Description
 `Geolocation` | Latitude, longitude of census tract centroid
 
 
-Source: [Centers for Disease Control and Prevention](http://.com/). (add link)
+Source: [Centers for Disease Control and Prevention](https://chronicdata.cdc.gov/). 
