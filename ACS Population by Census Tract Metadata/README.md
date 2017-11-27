@@ -18,7 +18,7 @@ Column Name | Description
 `HC04_VC05` | Percent Margin of Error; SEX AND AGE - Total population - Female
 `HC01_VC08` | Estimate; SEX AND AGE - Under 5 years
 `HC02_VC08` | Margin of Error; SEX AND AGE - Under 5 years
-`HC03_VC08` | Percent` | SEX AND AGE - Under 5 years
+`HC03_VC08` | Percent; SEX AND AGE - Under 5 years
 `HC04_VC08` | Percent Margin of Error; SEX AND AGE - Under 5 years
 `HC01_VC09` | Estimate; SEX AND AGE - 5 to 9 years
 `HC02_VC09` | Margin of Error; SEX AND AGE - 5 to 9 years
@@ -27,7 +27,7 @@ Column Name | Description
 `HC01_VC10` | Estimate; SEX AND AGE - 10 to 14 years
 `HC02_VC10` | Margin of Error; SEX AND AGE - 10 to 14 years
 `HC03_VC10` | Percent; SEX AND AGE - 10 to 14 years
-`HC04_VC10` | Percent Margin of Error` |  SEX AND AGE - 10 to 14 years
+`HC04_VC10` | Percent Margin of Error; SEX AND AGE - 10 to 14 years
 `HC01_VC11` | Estimate; SEX AND AGE - 15 to 19 years
 `HC02_VC11` | Margin of Error; SEX AND AGE - 15 to 19 years
 `HC03_VC11` | Percent; SEX AND AGE - 15 to 19 years
@@ -341,5 +341,5 @@ Column Name | Description
 `HC03_VC110` | "Percent, CITIZEN, VOTING AGE POPULATION – Citizen, 18 and over population - Female"
 `HC04_VC110` | "Percent Margin of Error, CITIZEN, VOTING AGE POPULATION – Citizen, 18 and over population - Female"
 
-
+Source:
 
