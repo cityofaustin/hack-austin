@@ -4,7 +4,6 @@ This is the complete dataset for the 500 Cities project. This dataset includes 2
 
 Column Name | Description
 ---|---------
-
 `Year` | Year
 `StateAbbr` | State abbreviation
 `StateDesc` | State name
