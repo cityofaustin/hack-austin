@@ -1,6 +1,7 @@
 
 Column Name | Description
 ---|---------
+
 `GEO.id` | Id
 `GEO.id2` | Id2
 `GEO.display-label` | Geography
@@ -324,10 +325,10 @@ Column Name | Description
 `HC02_VC102` | "Margin of Error, HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race,  and Three or more races"
 `HC03_VC102` | "Percent, HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race,  and Three or more races"
 `HC04_VC102` | "Percent Margin of Error, HISPANIC OR LATINO AND RACE - Total population - Not Hispanic or Latino - Two or more races - Two races excluding Some other race,  and Three or more races"
-`HC01_VC104` | Estimate` | HISPANIC OR LATINO AND RACE - Total housing units
-`HC02_VC104` | Margin of Error` | HISPANIC OR LATINO AND RACE - Total housing units
-`HC03_VC104` | Percent` | HISPANIC OR LATINO AND RACE - Total housing units
-`HC04_VC104` | Percent Margin of Error` | HISPANIC OR LATINO AND RACE - Total housing units
+`HC01_VC104` | Estimate, HISPANIC OR LATINO AND RACE - Total housing units
+`HC02_VC104` | Margin of Error, HISPANIC OR LATINO AND RACE - Total housing units
+`HC03_VC104` | Percent, HISPANIC OR LATINO AND RACE - Total housing units
+`HC04_VC104` | Percent Margin of Error, HISPANIC OR LATINO AND RACE - Total housing units
 `HC01_VC108` | "Estimate, CITIZEN, VOTING AGE POPULATION – Citizen, 18 and over population"
 `HC02_VC108` | "Margin of Error, CITIZEN, VOTING AGE POPULATION – Citizen, 18 and over population"
 `HC03_VC108` | "Percent, CITIZEN, VOTING AGE POPULATION – Citizen, 18 and over population"
@@ -340,5 +341,6 @@ Column Name | Description
 `HC02_VC110` | "Margin of Error; CITIZEN, VOTING AGE POPULATION – Citizen, 18 and over population - Female"
 `HC03_VC110` | "Percent, CITIZEN, VOTING AGE POPULATION – Citizen, 18 and over population - Female"
 `HC04_VC110` | "Percent Margin of Error, CITIZEN, VOTING AGE POPULATION – Citizen, 18 and over population - Female"
+
 
 
