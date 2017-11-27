@@ -1,3 +1,6 @@
+
+Column Name | Description
+---|---------
 GEO.id,Id
 GEO.id2,Id2
 GEO.display-label,Geography
