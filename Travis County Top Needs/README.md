@@ -7,16 +7,16 @@ No matter where you live in Texas, you can dial 2-1-1, or (877) 541-7905, and fi
 
 Data within this file include:
 
-2016 Travis County (TC) Caller Needs
-2016 Travis County (TC) Caller by Zip Code
-2016 Travis County (TC) Caller Needs >65
-2016 Travis County (TC) Caller by Zip Code >65
-Eletrict Assistance by Zip Code
-Rent Assistance by Zip Code
-Food Pantry by Zip Code
-Low Income Subsidized Housing by Zip Code
-Adult Local Insurance by Zip Code
-Low Cost Home Rental by Zip Code
-Homeless Shelters by Zip Code
+- 2016 Travis County (TC) Caller Needs
+- 2016 Travis County (TC) Caller by Zip Code
+- 2016 Travis County (TC) Caller Needs >65
+- 2016 Travis County (TC) Caller by Zip Code >65
+- Eletrict Assistance by Zip Code
+- Rent Assistance by Zip Code
+- Food Pantry by Zip Code
+- Low Income Subsidized Housing by Zip Code
+- Adult Local Insurance by Zip Code
+- Low Cost Home Rental by Zip Code
+- Homeless Shelters by Zip Code
 
 Source: [Texas Health and Human Services: 2-1-1](http://www.211texas.org/about-2-1-1/)
