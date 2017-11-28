@@ -12,6 +12,7 @@ Data enthusiasts, designers, civic leadears, developers, and engineers will unit
 
 ## Datasets Available on The Austin Open Data Portal (data.austintexas.gov): 
 - Austin Public Health - https://data.austintexas.gov/browse?category=Health+and+Community+Services&limitTo=datasets&page=1
+- Austin Public Health Locations - https://data.austintexas.gov/browse?category=Health+and+Community+Services&limitTo=datasets&page=1
 - Officer Involved Shooting Data- https://data.austintexas.gov/browse?q=OIS&sortBy=relevance
 - 311 Unified Data - https://data.austintexas.gov/Utilities-and-City-Services/311-Unified-Data/i26j-ai4z/data
 - Austin Code Complaint Cases- https://data.austintexas.gov/City-Government/Austin-Code-Complaint-Cases/6wtj-zbtb/data#column-menu
