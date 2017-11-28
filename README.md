@@ -8,7 +8,7 @@ Data enthusiasts, designers, civic leadears, developers, and engineers will unit
 
 ### Safety
 - How to improve emergency response times within the City.
-- Analyze what factors may contribute to officer involved shootings.
+- Analyze the environment where officer involved shooting incidents occur.
 
 ## Datasets Available on The Austin Open Data Portal (data.austintexas.gov): 
 - Austin Public Health - https://data.austintexas.gov/browse?category=Health+and+Community+Services&limitTo=datasets&page=1
