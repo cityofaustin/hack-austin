@@ -3,7 +3,9 @@
 
 This data represents the % of calls which meet AFD's internal response time standard. Standard: The first unit arrives onscene within 8 mins (from call receipt to onscene) 90% of the time.
 
-## Data Dictionary
+Source: [Austin Fire Department](http://www.austintexas.gov/department/fire)
+
+### Data Dictionary
 
 Field Name| Description
 ---|----------
