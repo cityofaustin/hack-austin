@@ -6,7 +6,7 @@ By collecting behavioral health risk data at the state and local level, BRFSS ha
 
 Source: [Center for Disease Control - Behavioral Risk Factor Surveillance System Open Data](https://chronicdata.cdc.gov/browse?category=Behavioral+Risk+Factors)
 
-### Data Dictionary
+### Data Dictionary for Aggregated Data File
 
 Column Name| Description
 ---|----------
