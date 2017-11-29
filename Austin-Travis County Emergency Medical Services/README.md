@@ -10,12 +10,14 @@ ATCEMS currently deploys 36 ambulances on a 24-hour basis, and another 7 for 12 
 Response interval is measured from the time of initial phone pickup in the Communications Center to the arrival of the first ATCEMS unit at the scene of the incident.  Response interval targets vary based on incident priority (1 through 5, with 1 being highest) and incident location (City of Austin or Travis County).  Response time targets are summarized in the following table.  Times are shown in minutes:seconds format.
 
 
-Incident Priority	City of Austin Target	Travis County Target
-Priority 1	9:59	11:59
-Priority 2	11:59	13:59
-Priority 3	13:59	15:59
-Priority 4	15:59	17:59
-Priority 5	17:59	19:59
+Incident Priority|	City of Austin Target|Travis County Target
+---|----------|----------
+Priority 1|	9:59|	11:59
+Priority 2|	11:59|	13:59
+Priority 3|	13:59|	15:59
+Priority 4|	15:59|	17:59
+Priority 5|	17:59|	19:59
+
 The department’s performance goal is to meet the response interval target for at least 90 percent of all incidents per time period (month or year) for each priority and zone (i.e. Priority 1 incidents in the City of Austin), and overall for each zone and for the system.  There are no response interval performance targets for mutual aid incidents that occur outside the ATCEMS service area.
 Transport Destinations
 About the Data Set
