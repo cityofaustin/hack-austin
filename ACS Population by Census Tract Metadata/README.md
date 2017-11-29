@@ -5,6 +5,9 @@ The American Community Survey (ACS) is an ongoing survey that provides vital inf
 Through the ACS, we know more about jobs and occupations, educational attainment, veterans, whether
 people own or rent their home, and other topics. Public officials, planners, and entrepreneurs use this information to assess the past and plan the future. When you respond to the ACS, you are doing your part to help your community plan hospitals and schools, support school lunch programs, improve emergency services, build bridges, and inform businesses looking to add jobs and expand to new markets, and more.
 
+Source:[United States Census Bureau](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml).
+
+### Data Dictionary
 
 Column Name | Description
 ---|---------
@@ -348,5 +351,5 @@ Column Name | Description
 `HC03_VC110` | "Percent, CITIZEN, VOTING AGE POPULATION – Citizen, 18 and over population - Female"
 `HC04_VC110` | "Percent Margin of Error, CITIZEN, VOTING AGE POPULATION – Citizen, 18 and over population - Female"
 
-Source:[United States Census Bureau](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml).
+
 
