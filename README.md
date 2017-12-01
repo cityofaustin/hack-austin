@@ -1,14 +1,15 @@
 # Hack Austin
-Data enthusiasts, developers, designers, analysts, data scientists, and data engineers are invited to tackle health and safety challenges for the City of Austin. Hack Austin, a civic and data driven hackathon is part of the [City Council’s strategic planning process.](https://austinstrategicplan.bloomfire.com/posts/1373079-strategic-direction)
+Data enthusiasts, developers, designers, analysts, data scientists, and data engineers are invited to tackle health and safety challenges for the City of Austin. Hack Austin, a civic and data driven hackathon is part of the [City Council’s strategic planning outcomes.](https://austinstrategicplan.bloomfire.com/posts/1373079-strategic-direction)
 
 The City of Austin strives to create a complete community where every Austinite has choices at every stage of life that allows the City to experience and contribute to all of the following strategic outcomes:
 - #### Economic Opportunity and Affordability: Having economic opportunities and resources that enable us to thrive in our community.
 - #### Mobility: Getting us where we want to go, when we want to get there, safely and cost-effectively. 
 - #### Safety: Being safe in our home, at work, and in our community.
-- #### Health: Enjoying a sustainable environment and a healthy life, physically and mentally.
-- #### Cultural and Learning Opportunities: Being enriched by Austin’s unique civic, cultural, ethnic, and learning opportunities.
+- #### Health and Environment: Enjoying a sustainable environment and a healthy life, physically and mentally.
+- #### Cultural and Lifelong Learning: Being enriched by Austin’s unique civic, cultural, ethnic, and learning opportunities.
 - #### Government that works for all of us: Believing that city government works effectively and collaboratively for all of us that it is equitable, ethical and innovative.
 
+Hack Austin is made possible through a collaboration among the City of Austin’s Communications and Technology Management Department, the Office of Performance Management, and the Telecommunications and Regulatory Affairs Department. Led by the City of Austin, in partnership with Galvanize, US Ignite and Open Austin, the hackathon is focused on applications that provide transformative public benefit. 
 
 ## Topics 
 ### Health
