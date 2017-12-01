@@ -1,5 +1,5 @@
 # Hack Austin
-Data enthusiasts, designers, civic leadears, developers, and engineers will unite to tackle strategic initiatives for the City of Austin.
+Data enthusiasts, developers, designers, analysts, data scientists, and data engineers are invited to tackle health and safety challenges for the City of Austin. The civic and data driven hackathon is part of the City Council’s strategic planning process.  Led by the City of Austin, in partnership with Galvanize, US Ignite and Open Austin, the hackathon is focused on applications that provide transformative public benefit. The winning application will receive a Proclamation from the City.
 
 ## Topics 
 ### Health
