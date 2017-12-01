@@ -1,5 +1,5 @@
 # Hack Austin
-Data enthusiasts, developers, designers, analysts, data scientists, and data engineers are invited to tackle health and safety challenges for the City of Austin. The civic and data driven hackathon is part of the City Council’s strategic planning process. 
+Data enthusiasts, developers, designers, analysts, data scientists, and data engineers are invited to tackle health and safety challenges for the City of Austin. Hack Austin, a civic and data driven hackathon is part of the City Council’s strategic planning process. 
 
 The City of Austin strives to create a complete community where every Austinite has choices at every stage of life that allows the City to experience and contribute to all of the following strategic outcomes:
 - #### Economic Opportunity and Affordability: Having economic opportunities and resources that enable us to thrive in our community.
@@ -7,7 +7,7 @@ The City of Austin strives to create a complete community where every Austinite 
 - #### Safety: Being safe in our home, at work, and in our community.
 - #### Health: Enjoying a sustainable environment and a healthy life, physically and mentally.
 - #### Cultural and Learning Opportunities: Being enriched by Austin’s unique civic, cultural, ethnic, and learning opportunities.
-- #### Government that works for all of us: Believing that city government works effectively and collaboratively for all of us—that it is equitable, ethical and innovative.
+- #### Government that works for all of us: Believing that city government works effectively and collaboratively for all of us that it is equitable, ethical and innovative.
 
 
 ## Topics 
