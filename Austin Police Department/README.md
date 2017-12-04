@@ -32,3 +32,18 @@ Data Fields include:
 - Total Calls ( No Business Rules)
 
 ### Austin Police Department (APD) 911 Calls 
+
+This data provides counts of 911 calls including time of first unit arrived to time phone pick up within the City of Austin by police district.  
+
+Source: [Austin Police Department](http://www.austintexas.gov/department/police)
+
+Data Fields include:
+
+- CAD Number	
+- Response Date	
+- Call Date	
+- Initial Problem Type	
+- Final Problem Type	
+- Block Address	
+- Time Phone Pick Up	
+- Time First Unit Arrived
