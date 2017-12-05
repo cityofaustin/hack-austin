@@ -34,6 +34,11 @@ Hack Austin is made possible through a collaboration among the City of Austin’
 ## ShapeFiles Available on The Austin Open Data Portal (data.austintexas.gov): 
 - Single Member Council District - https://data.austintexas.gov/Locations-and-Maps/Single-Member-Council-Districts/69pm-tzkv
 - City of Austin Street Segment - https://data.austintexas.gov/Locations-and-Maps/Street-Segment/t4fe-kr8c
+- Sidewalk Network - https://data.austintexas.gov/Locations-and-Maps/Public-Works-Sidewalk-Network/ea6n-pgcf
+- Police Stations - https://data.austintexas.gov/Public-Safety/Map-of-Austin-Police-Stations/fsgj-5xyt
+- Austin Fire Department Stations - https://data.austintexas.gov/Public-Safety/Austin-Fire-Station-Map/szku-46rx
+- City of Austin Parks - https://data.austintexas.gov/Locations-and-Maps/City-Of-Austin-Parks/99qw-4ixs
+- Urban Trails - https://data.austintexas.gov/Locations-and-Maps/Urban-Trails/bxbe-ndaw
 - Large Shapefiles - https://austintexas.app.box.com/s/8ah8itbha7u6lis9eipypnz5ljvwta4t
 
 
