@@ -41,6 +41,12 @@ Hack Austin is made possible through a collaboration among the City of Austin’
 - Urban Trails - https://data.austintexas.gov/Locations-and-Maps/Urban-Trails/bxbe-ndaw
 - Large Shapefiles - https://austintexas.app.box.com/s/8ah8itbha7u6lis9eipypnz5ljvwta4t
 
+## Additonal Datasets
+- National Centers for Environmental Information - https://www.ncdc.noaa.gov/cdo-web/
+- City of Austin Strategic Plan Metrics - https://austinstrategicplan.bloomfire.com/posts/1491009-council-strategy-workshop-iv-on-metrics-11-30-17
+- Safety Challenge Statement - https://austinstrategicplan.bloomfire.com/series/40208/posts/1488461
+- Health Challenge Statement - https://austinstrategicplan.bloomfire.com/series/40208/posts/1481598
+
 
 ## Registration | Hack Austin Info. 
 [Learn more today](https://www.eventbrite.com/e/hack-austin-presented-by-the-city-of-austin-galvanize-tickets-39048292494)
