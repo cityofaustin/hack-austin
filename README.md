@@ -39,14 +39,23 @@ Hack Austin is made possible through a collaboration among the City of Austin’
 - Austin Fire Department Stations - https://data.austintexas.gov/Public-Safety/Austin-Fire-Station-Map/szku-46rx
 - City of Austin Parks - https://data.austintexas.gov/Locations-and-Maps/City-Of-Austin-Parks/99qw-4ixs
 - Urban Trails - https://data.austintexas.gov/Locations-and-Maps/Urban-Trails/bxbe-ndaw
+- Bicycle Facilities - https://data.austintexas.gov/dataset/Austin-Bicycle-Facilities/kfe9-st9c
+- B-Cycle Trips - https://data.austintexas.gov/Transportation-and-Mobility/Austin-B-Cycle-Trips/tyfh-5r8s
 - Large Shapefiles - https://austintexas.app.box.com/s/8ah8itbha7u6lis9eipypnz5ljvwta4t
 
 ## Additonal Datasets
+- Austin Transportation Data Inventory - http://atd.knack.com/data-inventory#open-data-inventory/
+- City of Austin's GIS Feature Service Directory - http://services.arcgis.com/0L95CJ0VTaxqcmED/ArcGIS/rest/services/
+- API Documentation for GIS Feature Service Directory - http://resources.arcgis.com/en/help/arcgis-rest-api/#/Feature_Service/02r3000000z2000000/
+- Address Locator - http://www.austintexas.gov/gis/rest/Geocode/COA_Address_Locator/GeocodeServer
+- Place Locator - http://www.austintexas.gov/GIS/REST/Geocode/COA_Composite_Locator/GeocodeServer
+- API Documentation for the Locators - http://resources.arcgis.com/en/help/arcgis-rest-api/index.html#/Geocode_Service/02r3000000q9000000/
 - National Centers for Environmental Information - https://www.ncdc.noaa.gov/cdo-web/
 - City of Austin Strategic Plan Metrics - https://austinstrategicplan.bloomfire.com/posts/1491009-council-strategy-workshop-iv-on-metrics-11-30-17
 - Safety Challenge Statement - https://austinstrategicplan.bloomfire.com/series/40208/posts/1488461
 - Health Challenge Statement - https://austinstrategicplan.bloomfire.com/series/40208/posts/1481598
 - Texas Alcohol Beverage Commission Data - https://www.tabc.state.tx.us/PublicInquiry/Roster.aspx
+
 
 
 ## Registration | Hack Austin Info. 
