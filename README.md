@@ -30,6 +30,7 @@ Hack Austin is made possible through a collaboration among the City of Austin’
 - Emergency Medical Services Data- https://data.austintexas.gov/browse?q=ems&sortBy=relevance&anonymous=true
 - Austin Fire Department Data- https://data.austintexas.gov/browse?q=AFD&sortBy=relevance&anonymous=true
 - Austin Transportation Data - https://data.austintexas.gov/browse?limitTo=datasets&q=transportation
+- City of Austin Building Permit Data - https://data.austintexas.gov/browse?q=building+permits
 
 ## ShapeFiles Available on The Austin Open Data Portal (data.austintexas.gov): 
 - Single Member Council District - https://data.austintexas.gov/Locations-and-Maps/Single-Member-Council-Districts/69pm-tzkv
