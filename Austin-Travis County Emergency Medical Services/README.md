@@ -65,7 +65,7 @@ The data contained in this table has been simplified in order to support the aim
 ### Data Dictionary
 Column Name|	Format|	Definition|	Data Source
 ---|----------|----------|----------
-Incident_ID|	Integer| Primary key.  Unique identifier for incident.  A surrogate key assigned specifically for this data set.|	ATCEMS CAD Data
+Incident_ID|	Integer| Primary key.  Unique identifier for incident.  A surrogate key assigned specifically for this data set.|	None
 Incident_Date|	Date|	Date that incident occurred, based on the date and time that the first unit was dispatched to the event.|	ATCEMS CAD Data
 Priority|	Integer|	Final response priority assigned to incident.|	ATCEMS CAD Data
 Zone|	Text|	Area in which incident occurred.  Either “City of Austin” or “Travis County.”|	ATCEMS CAD Data
@@ -90,4 +90,4 @@ Census_Block_Name|	Text|	Census block name in text format.|	GIS Feature Class [E
 - Referred – Incident referred to another agency for disposition. This is often a fire department or law enforcement agency. This disposition includes patients handed off to StarFlight or other EMS provider agencies.
 - Test – Incident entered to test some aspect of the CAD system. No units responded to event.
 - Other – Documented disposition does not fall into any of common categories listed above.
-- <Missing> -- No data regarding incident disposition present in CAD record.
+- Missing -- No data regarding incident disposition present in CAD record.
