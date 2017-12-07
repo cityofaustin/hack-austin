@@ -11,12 +11,12 @@ The City of Austin strives to create a complete community where every Austinite 
 
 Hack Austin is made possible through a collaboration among the City of Austin’s Communications and Technology Management Department, the Office of Performance Management, and the Telecommunications and Regulatory Affairs Department. Led by the City of Austin, in partnership with Galvanize, US Ignite and Open Austin, the hackathon is focused on applications that provide transformative public benefit. 
 
-## Topics 
-### Health
+## Topics :speech_balloon:
+### Health :walking: :runner: :hospital:
 - How to optimize physical health within the City of Austin.
 - How to improve mental and behavioral health for Austinites.
 
-### Safety
+### Safety :police_car: :ambulance:
 - How to improve emergency response times within the City.
 - Analyze the environment where officer involved shooting incidents occur.
 
@@ -60,4 +60,4 @@ Hack Austin is made possible through a collaboration among the City of Austin’
 
 
 ## Registration | Hack Austin Info. 
-[Learn more today](https://www.eventbrite.com/e/hack-austin-presented-by-the-city-of-austin-galvanize-tickets-39048292494)
+:computer: [Learn more today](https://www.eventbrite.com/e/hack-austin-presented-by-the-city-of-austin-galvanize-tickets-39048292494)
