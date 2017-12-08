@@ -55,6 +55,13 @@ Hack Austin is made possible through a collaboration among the City of Austin’
 - Texas Department of State Health Services Mortality Data - http://healthdata.dshs.texas.gov/VitalStatistics/Death
 - Texas Alcohol Beverage Commission Data - https://www.tabc.state.tx.us/PublicInquiry/Roster.aspx
 
+## Data.world Projects
+- (Project) Predicting animal adoptions in the Austin animal shelter - https://data.world/rdowns26/austin-animal-shelter
+- (Project) Texas campaign contribution data - https://data.world/zach/texas-data
+- (Project) Austin Crime Report from 2015 - https://data.world/dash/austin-crime-report-2015
+- (Project) Police Traffic Stop Records from the U.S. state of Texas 2006–2015 - https://data.world/dataneer/tsopp-tx
+- (Project) Number of female speakers at meetup events - https://data.world/flexyford/wespeaktoo
+
 ## Strategic Plan
 - City of Austin Strategic Plan Metrics - https://austinstrategicplan.bloomfire.com/posts/1491009-council-strategy-workshop-iv-on-metrics-11-30-17
 - Safety Challenge Statement - https://austinstrategicplan.bloomfire.com/series/40208/posts/1488461
