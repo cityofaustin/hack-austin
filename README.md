@@ -68,7 +68,7 @@ Hack Austin is made possible through a collaboration among the City of Austin’
 - Health Challenge Statement - https://austinstrategicplan.bloomfire.com/series/40208/posts/1481598
 
 ## Databases of Deaths in Custody and Officer-Involved Shooting Incidents
-- [Info about this Dataset] (https://liberalarts.utexas.edu/iupra/ag-database.php) 
+- [Info about this Dataset](https://liberalarts.utexas.edu/iupra/ag-database.php) 
 - [Dataset](https://docs.google.com/spreadsheets/d/1X8e1DcIJFtVLjagkBx1L8HIxuSNetYQkh2N-JBfVnoE/edit#gid=664030083)
 
 
