@@ -76,7 +76,7 @@ Emergency Response Time Modeling with Math Magic – The team sought to understa
 - Github Repo : https://github.com/madderle/Hack-Austin 
 
 Healthcare Rides – giving rides to people with urgent, chronic medical needs. The team discovered eight hot spots around Austin for Emergency Medical Services (EMS) calls. In collaboration with nonprofit Ride Austin, Healthcare Rides seeks to serve Austin’s vulnerable residents and save taxpayer dollars. During the hackathon, the team built technical infrastructure to facilitate issuing and validating ride vouchers.
-- Github Repo : 
+- Github Repo : https://github.com/rmathur101/healthcare_rides
 
 ## Projects
 Here is a listing of all the projects that were presented:
