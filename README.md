@@ -78,5 +78,17 @@ Emergency Response Time Modeling with Math Magic – The team sought to understa
 Healthcare Rides – giving rides to people with urgent, chronic medical needs. The team discovered eight hot spots around Austin for Emergency Medical Services (EMS) calls. In collaboration with nonprofit Ride Austin, Healthcare Rides seeks to serve Austin’s vulnerable residents and save taxpayer dollars. During the hackathon, the team built technical infrastructure to facilitate issuing and validating ride vouchers.
 - Github Repo : 
 
+## Projects
+Here is a listing of all the projects that were presented:
+
+Austin Police Shootings – In an effort to understand why, where, and how police shootings are happening in Austin, Team Macro studied environmental factors connected to shootings at ZIP code level. To add a human element to the data, the team also interviewed a police officer involved in a shooting incident. Based on their analysis, the team recommended civic interventions to bolster education, income, and housing relief opportunities (many of which the City’s Economic Opportunity & Affordability Outcome team are working on).
+- Github Repo : https://github.com/christian10992/HackAustin2017
+
+UT Data Analytics – In between finishing up projects for college finals this weekend, this group of University of Texas students delved into the City’s Annual Community Survey results to look for correlations in the data set.
+- Github Repo :
+
+Geofencing for Safety in Austin – Leveraging Austin 3-1-1 data to allow residents to filter out events they want to avoid – such as flooding, and potentially be notified and re-route to another direction.
+- Github Repo :
+
 ## Hack Austin Info.
-:computer: [Learn more today](https://www.eventbrite.com/e/hack-austin-presented-by-the-city-of-austin-galvanize-tickets-39048292494)
+:computer: [Learn more today](https://austinstrategicplan.bloomfire.com/posts/1496098-2-winners-announced-at-civic-hackathon)
