@@ -70,5 +70,14 @@ Hack Austin is made possible through a collaboration among the City of Austin’
 - Safety Challenge Statement - https://austinstrategicplan.bloomfire.com/series/40208/posts/1488461
 - Health Challenge Statement - https://austinstrategicplan.bloomfire.com/series/40208/posts/1481598
 
-## Registration | Hack Austin Info. 
+## Hack Austin Info. | Winners
 :computer: [Learn more today](https://www.eventbrite.com/e/hack-austin-presented-by-the-city-of-austin-galvanize-tickets-39048292494)
+
+# Winners 
+
+Emergency Response Time Modeling with Math Magic – The team sought to understand factors that contribute to public safety response times. What predicts a late response? Is it Monday? If so, the data shows a slower response. Is it 4 or 5 o’clock? Then, is it traffic or something else slowing down responders? The results demonstrate how data analytics can position local government to be more proactive and effective with its limited resources.
+- Github Repo : https://github.com/madderle/Hack-Austin 
+
+Healthcare Rides – giving rides to people with urgent, chronic medical needs. The team discovered eight hot spots around Austin for Emergency Medical Services (EMS) calls. In collaboration with nonprofit Ride Austin, Healthcare Rides seeks to serve Austin’s vulnerable residents and save taxpayer dollars. During the hackathon, the team built technical infrastructure to facilitate issuing and validating ride vouchers.
+- Github Repo : 
+
