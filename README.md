@@ -91,4 +91,6 @@ Geofencing for Safety in Austin – Leveraging Austin 3-1-1 data to allow reside
 - Github Repo :
 
 ## Hack Austin Info.
-:computer: [Learn more today](https://austinstrategicplan.bloomfire.com/posts/1496098-2-winners-announced-at-civic-hackathon)
+https://austinstrategicplan.bloomfire.com/posts/1496098-2-winners-announced-at-civic-hackathonhttps://medium.com/@alexpriceco/hack-austin-2017-659dce5cd9a
+https://twitter.com/atxgo
+
