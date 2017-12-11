@@ -54,6 +54,9 @@ Hack Austin is made possible through a collaboration among the City of Austin’
 - National Centers for Environmental Information - https://www.ncdc.noaa.gov/cdo-web/
 - Texas Department of State Health Services Mortality Data - http://healthdata.dshs.texas.gov/VitalStatistics/Death
 - Texas Alcohol Beverage Commission Data - https://www.tabc.state.tx.us/PublicInquiry/Roster.aspx
+- IPUMS USA US Census Data for Social, Economic, and Health Research - https://usa.ipums.org/usa/
+- University of Texas Database of Deaths in Custody and Officer - Involved Shooting Incidents- https://docs.google.com/spreadsheets/d/1X8e1DcIJFtVLjagkBx1L8HIxuSNetYQkh2N-JBfVnoE/edit#gid=664030083
+- [Information about Unviersity of Texas Databse of Deaths in Custody and Officer Involved Shooting Incidents](https://liberalarts.utexas.edu/iupra/ag-database.php) 
 
 ## Data.world Projects
 - (Project) Predicting animal adoptions in the Austin animal shelter - https://data.world/rdowns26/austin-animal-shelter
@@ -66,11 +69,6 @@ Hack Austin is made possible through a collaboration among the City of Austin’
 - City of Austin Strategic Plan Metrics - https://austinstrategicplan.bloomfire.com/posts/1491009-council-strategy-workshop-iv-on-metrics-11-30-17
 - Safety Challenge Statement - https://austinstrategicplan.bloomfire.com/series/40208/posts/1488461
 - Health Challenge Statement - https://austinstrategicplan.bloomfire.com/series/40208/posts/1481598
-
-## Databases of Deaths in Custody and Officer-Involved Shooting Incidents
-- [Info about this Dataset](https://liberalarts.utexas.edu/iupra/ag-database.php) 
-- [Dataset](https://docs.google.com/spreadsheets/d/1X8e1DcIJFtVLjagkBx1L8HIxuSNetYQkh2N-JBfVnoE/edit#gid=664030083)
-
 
 ## Registration | Hack Austin Info. 
 :computer: [Learn more today](https://www.eventbrite.com/e/hack-austin-presented-by-the-city-of-austin-galvanize-tickets-39048292494)
