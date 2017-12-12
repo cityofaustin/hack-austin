@@ -88,7 +88,7 @@ UT Data Analytics – In between finishing up projects for college finals this w
 - Github Repo :
 
 Geofencing for Safety in Austin – Leveraging Austin 3-1-1 data to allow residents to filter out events they want to avoid – such as flooding, and potentially be notified and re-route to another direction.
-- Github Repo :
+- Github Repo : https://github.com/kgandhi5/halcyon
 
 ## Hack Austin Info.
 https://austinstrategicplan.bloomfire.com/posts/1496098-2-winners-announced-at-civic-hackathon
