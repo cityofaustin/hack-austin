@@ -56,7 +56,7 @@ Hack Austin is made possible through a collaboration among the City of Austin’
 - Texas Alcohol Beverage Commission Data - https://www.tabc.state.tx.us/PublicInquiry/Roster.aspx
 - IPUMS USA US Census Data for Social, Economic, and Health Research - https://usa.ipums.org/usa/
 - University of Texas Database of Deaths in Custody and Officer - Involved Shooting Incidents- https://docs.google.com/spreadsheets/d/1X8e1DcIJFtVLjagkBx1L8HIxuSNetYQkh2N-JBfVnoE/edit#gid=664030083
-- [Information about Unviersity of Texas Databse of Deaths in Custody and Officer Involved Shooting Incidents](https://liberalarts.utexas.edu/iupra/ag-database.php) 
+- [Information about Unviersity of Texas Database of Deaths in Custody and Officer Involved Shooting Incidents](https://liberalarts.utexas.edu/iupra/ag-database.php) 
 
 ## Data.world Projects
 - (Project) Predicting animal adoptions in the Austin animal shelter - https://data.world/rdowns26/austin-animal-shelter
