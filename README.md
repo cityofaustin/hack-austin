@@ -79,7 +79,7 @@ Healthcare Rides – giving rides to people with urgent, chronic medical needs. 
 - Github Repo : https://github.com/rmathur101/healthcare_rides
 
 ## Projects
-Here is a listing of all the projects that were presented:
+Here is a listing of the other projects that were presented:
 
 Austin Police Shootings – In an effort to understand why, where, and how police shootings are happening in Austin, Team Macro studied environmental factors connected to shootings at ZIP code level. To add a human element to the data, the team also interviewed a police officer involved in a shooting incident. Based on their analysis, the team recommended civic interventions to bolster education, income, and housing relief opportunities (many of which the City’s Economic Opportunity & Affordability Outcome team are working on).
 - Github Repo : https://github.com/christian10992/HackAustin2017
