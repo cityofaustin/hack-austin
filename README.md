@@ -74,9 +74,11 @@ Hack Austin is made possible through a collaboration among the City of Austin’
 
 Emergency Response Time Modeling with Math Magic – The team sought to understand factors that contribute to public safety response times. What predicts a late response? Is it Monday? If so, the data shows a slower response. Is it 4 or 5 o’clock? Then, is it traffic or something else slowing down responders? The results demonstrate how data analytics can position local government to be more proactive and effective with its limited resources.
 - Github Repo : https://github.com/madderle/Hack-Austin 
+- Presentation : https://docs.google.com/presentation/d/1WwAACWIQ59LIEDM-Yl4xTxevmXuWq1W3hynG-mhbmY8/edit#slide=id.p
 
 Healthcare Rides – giving rides to people with urgent, chronic medical needs. The team discovered eight hot spots around Austin for Emergency Medical Services (EMS) calls. In collaboration with nonprofit Ride Austin, Healthcare Rides seeks to serve Austin’s vulnerable residents and save taxpayer dollars. During the hackathon, the team built technical infrastructure to facilitate issuing and validating ride vouchers.
 - Github Repo : https://github.com/rmathur101/healthcare_rides
+- Presentation : https://docs.google.com/presentation/d/1cXxUhq2JyHX_tkW0XXnps7vmmY_zVxLwTt89jSHOj4g/edit#slide=id.g2c04d95ccb_0_18
 
 ## Projects
 Here is a listing of the other projects that were presented:
