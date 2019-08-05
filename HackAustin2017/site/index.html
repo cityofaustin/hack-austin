@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HackAustin 2017</title>
+<meta name="author" content="Christian Harris, Justin Ma, Andrew Adelson" />
+<meta name="description" content="HackAustin Police Shooting Analysis" />
+<meta name="keywords"  content="" />
+<meta name="Resource-type" content="Document" />
+<link rel="stylesheet" type="text/css" href="jquery.fullPage.css" />
+<link rel="stylesheet" type="text/css" href="main.css" />
+<style>
+
+		/* Sections
+		 * --------------------------------------- */
+		#section0 img,
+		#section1 img,
+		#section2 img,
+		#section3 img{
+			margin: 20px 0 0 0;
+		}
+
+		.intro p{
+			width: 50%;
+			margin: 0 auto;
+			font-size: 1.5em;
+		}
+
+	</style>
+<!--[if IE]>
+		<script type="text/javascript">
+			 var console = { log: function() {} };
+		</script>
+	<![endif]-->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+<script type="text/javascript" src="jquery.fullPage.js"></script>
+<script type="text/javascript">
+		$(document).ready(function() {
+			$('#fullpage').fullpage({
+				sectionsColor: ['#1bbc9b', '#4BBFC3', '#7BAABE', 'whitesmoke', '#ccddff'],
+				anchors: ['firstPage', 'secondPage', '3rdPage', '4thpage', 'lastPage'],
+				menu: '#menu',
+				scrollingSpeed: 1000
+			});
+
+		});
+	</script>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body>
+
+
+<ul id="menu">
+	<li data-menuanchor="firstPage"><a href="#firstPage">Introduction</a></li>
+	<li data-menuanchor="secondPage"><a href="#secondPage">Demographic Data</a></li>
+	<li data-menuanchor="3rdPage"><a href="#3rdPage">Geographical Data</a></li>
+	<li data-menuanchor="4thpage"><a href="#4thpage">Conclusions</a></li>
+</ul>
+
+
+
+<div id="fullpage">
+<!--Slide 1-->
+	<div class="section active" id="section0">
+        <div class="intro">
+		      <h1>Introduction</h1>
+                <br><br>
+		      <p>As part of the Hack Austin event, we analyzed police shooting data for Austin from 2007 to 2016. From this data, we have formed a geographical and demographic model, in order to analyze and determine the environment and contributing factors to police-involved shootings in our city, make predictions for future incidents, and areas to target for improval.</p>
+        </div>      
+	</div>
+
+<!--Slide 2-->
+	<div class="section" id="section1">
+        <div class="slide">
+		      <div class="intro">
+			     <h1>Physical Demographics</h1>
+                  <br><br>
+			     <p>While the data for the overall APD demographics was incomplete, we visualized the physical demographic data and found no strong correlation within the sample population.</p>
+		      </div>
+        </div>
+        
+        <div class="slide">
+        <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-6">
+		      <div class="intro">
+			     <h1>Age</h1>
+			     <p>Officers involed tended to be predominantly within the 33-35 year age range, with subjects most likely to be in the 25-30 range.</p>
+		      </div>
+            </div>
+            <div class="col-sm-6">
+                <img src="Visualizations/Age.png" class="age">
+            </div>
+        </div>
+        </div>
+        </div>
+	
+    
+    <div class="slide">
+        <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-6">
+		      <div class="intro">
+			     <h1>Race & Ethnicity</h1>
+			     <p>Race and ethnicity within the sample tended to be more balanced than expected in the sample set.</p>
+		      </div>
+            </div>
+            <div class="col-sm-6">
+                <img src="Visualizations/Race.png" class="race">
+            </div>
+        </div>
+        </div>
+        </div>
+
+
+    
+    
+    <div class="slide">
+		      <div class="intro">
+			     <h1>Sex</h1>
+                  <br><br>
+			     <p>We found that within the officer and subject population, the amount of females was insignificant, both being comprised of men.</p>
+		      </div>
+        </div>
+    
+    </div>
+    
+<!--Slide 3-->
+	<div class="section" id="section2">
+		<div class="container-fluid">
+            <div class="row">
+				<div class="col-sm-5">
+                    <div class="row">
+                        <img src ="Visualizations/Austin%20Zip%20Clusters.png" class="zip1" alt="Zip Code Clusters">
+                    </div>
+                    <div class="row">
+                        <img src ="Visualizations/Shooting%20Zip%20Codes%20by%20Cluster.png" class = "zip2" alt = "Shootings By Cluster">
+                    </div>
+                </div>
+				<div class="col-sm-7">
+        <div class="slide">
+             <div class="intro">
+				<h1>Geographical Information</h1>
+                <br>
+                <p>We processed Austin's zip codes by the following factors: </p>
+                <br><br>
+                <ul>
+                <li>Median Household Income</li>
+                <li>Population Density</li>
+                <li>Urbanicity</li>
+                <li>Level of Education</li>
+                <li>Employment</li>
+                <li>Age Range</li>
+                <li>Family Characteristics</li>
+                <li>Percent of Home Owners</li>
+                </ul>
+			</div>
+		</div>
+        
+		<div class="slide">
+			<div class="intro">
+				<h1>Target Areas</h1>
+                <br>
+                <p>By this data, the zip codes were grouped into five clusters. We found that one cluster in particular was found to be highly correlated with both police shootings and 911 calls, and had the following traits:</p>
+                <br><br>
+                <ul>
+                <li>40% more densely populated than the city's average</li>
+                <li>Renter Saturated and only in the 4th percentile in the U.S. for owner occupied areas</li>
+                <li>A median household income of $33,000, almost half of the average for Austin</li>
+                <li>33% are degree-holders, 10% less than the city average.</li>
+                </ul>
+			</div>
+		</div>
+        
+		<div class="slide">
+			<div class="intro">
+				<h1>Predictors</h1>
+                <br><br>
+				<p>We found the following traits to be the most important:</p>
+                <br>
+                <ol>
+                    <li>Income, lower-mid scale</li>
+                    <li>Higher population</li>
+                    <li>Urbanicity</li>
+                    <li>Housing Renters</li>
+                    <li>Median Household Income</li>
+                </ol>
+			</div>
+		</div>
+        </div>
+      </div>
+    </div>
+		
+        
+	</div>
+    
+    
+<!--Slide 4-->
+	<div class="section" id="section3">
+		<div class="intro">
+			<h1>Conclusions</h1>
+			<p>
+                Based on our findings, the zip codes associated with the aforementioned  qualities were shown to be correlated with the police shootings. An increase in resources, not only in terms of the APD, but in civil programs that target areas such as education, income, and housing relief would be the most effective solution to help reduce the amount of police-related shooting incidents in these areas.
+			</p>
+		</div>
+	</div>
+
+    
+</div>
+
+</body>
+</html>
